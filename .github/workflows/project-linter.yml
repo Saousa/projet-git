@@ -1,5 +1,12 @@
 name: ESLint
-on: [push, pull_request]
+on:
+  push:
+    paths:
+      - '**.js'
+  pull_request:
+    paths:
+      - '**.js'
+
 jobs:
   build:
     runs-on: ubuntu-latest
