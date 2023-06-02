@@ -1,0 +1,2 @@
+- name: Pull Request Linter
+  uses: MorrisonCole/pr-lint-action@v1.7.0
