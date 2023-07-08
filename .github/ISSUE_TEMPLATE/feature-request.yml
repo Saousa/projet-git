@@ -33,3 +33,11 @@ body:
     attributes:
       label: Solutions alternatives envisagées
       description: Décrivez toute solution alternative que vous avez envisagée.
+  - type: checkboxes
+    id: agreement
+    attributes:
+      label: Code de conduite
+      description: En soumettant ce rapport, vous vous engagez à respecter notre code de conduite.
+      options:
+        - label: J'accepte de suivre le code de conduite de ce projet.
+          required: true
