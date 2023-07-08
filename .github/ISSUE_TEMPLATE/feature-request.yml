@@ -1,0 +1,43 @@
+name: Demande d'ajout de fonctionnalité
+description: Proposer une idée pour ce projet
+title: "[Ajout de fonctionnalité]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci de nous avoir donné des informations détaillées pour améliorer notre projet.
+  - type: textarea
+    id: summary
+    attributes:
+      label: Résumé
+      description: Fournir un bref résumé de la fonctionnalité proposée.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problème à résoudre
+      description: Expliquez le problème que cette fonctionnalité résoudra.
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Solution proposée
+      description: Décrivez la solution que vous proposez.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Solutions alternatives envisagées
+      description: Décrivez toute solution alternative que vous avez envisagée.
+  - type: checkboxes
+    id: agreement
+    attributes:
+      label: Code de conduite
+      description: En soumettant cette demande, vous vous engagez à respecter notre code de conduite.
+      options:
+        - label: J'accepte de suivre le code de conduite de ce projet.
+          required: true
