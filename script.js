@@ -1,5 +1,5 @@
 /* Navbar scroll */
-console.log('test)
+console.log('test');
 
 $(function(){
 
