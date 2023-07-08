@@ -1,4 +1,4 @@
-name: Signalement de bug
+name: Signalement de bug sur le site web
 description: Signaler un bug pour nous aider à améliorer le site
 title: "[Bug]: "
 labels: ["bug"]
