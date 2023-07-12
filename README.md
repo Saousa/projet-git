@@ -37,7 +37,7 @@
     <li>
       <a href="#about-the-project">A propos du projet</a>
       <ul>
-        <li><a href="#built-with">Créé avec...h</a></li>
+        <li><a href="#built-with">Créé avec...</a></li>
       </ul>
     </li>
     <li>
