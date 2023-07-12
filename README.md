@@ -1,9 +1,6 @@
 <a name="readme-top"></a>
 <!-- PROJECT SHIELDS -->
 
-<!-- PROJECT LOGO -->[![Contributors][contributors-shield]][contributors-url]
-<!-- PROJECT LOGO -->[![Forks][forks-shield]][forks-url]
-<!-- PROJECT LOGO -->[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
 
