@@ -94,14 +94,15 @@ Ce site web a été développé avec les technologies suivantes :
 
 
 <!-- GETTING STARTED -->
-## "Getting started"
+#"Getting started"
+
 
 ## Prérequis
 
 ... A remplir
 
 
-# Cloner le projet
+## Cloner le projet
 
 Pour obtenir une copie locale du code source et des ressources du Northstreet Restaurant, suivez ces étapes :
 - Ouvrez votre terminal ou votre interface de ligne de commande.
@@ -109,12 +110,13 @@ Pour obtenir une copie locale du code source et des ressources du Northstreet Re
 `git clone https://github.com/Saousa/projet-git`
 - ⚠️ Précision : Pour exécuter le site web localement, vous devez avoir un serveur web tel que Apache ou Nginx installé et configuré sur votre machine. Vous pouvez également utiliser des outils de visualisation en direct tel que Live Server pour Visual Studio Code par exemple.
 
-#
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
 
 <!-- CONTRIBUTING -->
+# Contribution 
+
 ## Conditions de participation à la contribution
 
 Afin de contribuer au projet, vous devez **respecter** les critères suivants : 
@@ -122,7 +124,7 @@ Afin de contribuer au projet, vous devez **respecter** les critères suivants :
 - Lire entièrement le code de conduite ci-dessous et l'avoir accepté.
 - Maîtriser au minimum les technologies suivantes : HTML, CSS, Javascript. Développeur par passion ou par métier, vous pouvez participer autant étudiant que confirmé.
 
-# Code de conduite : important. ⚠️
+## Code de conduite : important. ⚠️
 
 1. Nous ne tolérons aucun harcèlement des participants sous quelque forme que ce soit. Cela concerne le harcèlement concernant le sexe, l'orientation sexuelle, le handicap, la maladie mentale, l'apparence physique, le corps, l'âge, la race, l'origine ethnique, la nationalité, la langue, la religion...
 2. Aucune menace envers les collaborateurs n'est tolérée. Il est impératif de respecter chaque développeur/contributeur présent sur ce projet et dans la communauté. Toute insulte ou comportement irrespectueux entraînera une exclusion vis-à-vis de la participation au projet. Il est important de préciser que les critiques construites sont les bienvenues tout de même et sont appréciées.
@@ -135,7 +137,7 @@ Afin de contribuer au projet, vous devez **respecter** les critères suivants :
 
 Dans le but de protéger les victimes d'abus, nous nous engageons à respecter les demandes de confidentialité. Si nous recevons des plaintes de harcèlement concernant une personne, il pourra être possible de la nommer publiquement ou d'informer discrètement les collaborateurs à son sujet, si cela contribue à assurer la sécurité des participants. Cependant, nous n'identifierons jamais les victimes de harcèlement sans leur consentement explicite.
 
-# Contributuer au projet
+## Contributuer au projet
 
 Si vous avez une suggestion qui améliorerait le projet, veuillez fork le dépôt et créer une pull request. Vous pouvez aussi simplement ouvrir une "issue" avec le tag "enhancement".
 Toutes les contributions que vous faites sont **grandement appréciées**.
