@@ -32,25 +32,25 @@
   <summary>Sommaire</summary>
   <ol>
     <li>
-      <a href="#about-the-project">A propos du projet</a>
+      A propos du projet
       <ul>
-        <li><a href="#built-with">Créé avec...</a></li>
+        <li>Créé avec...</li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">"Getting started"</a>
+     "Getting started"
       <ul>
-        <li><a href="#prerequisites">Prérequis</a></li>
-        <li><a href="#clone">Cloner le projet</a></li>
-        <li><a href="#installation">Prérequis</a></li>
+        <li>Prérequis</li>
+        <li>Cloner le projet</li>
+        <li>Prérequis</li>
       </ul>
     </li>
-    <li><a href="#usage">Contributuer au projet</a></li>
+    <li>Contributuer au projet</li>
     <ul>
-        <li><a href="#prerequisites"> Code de conduite : important. ⚠️</a></li>
-        <li><a href="#clone">Contribution au projet</a></li>
+        <li>Code de conduite : important. ⚠️</li>
+        <li>Contribution au projet</li>
       </ul>
-    <li><a href="#contact">Contact</a></li>
+    <li>Contact</li>
   </ol>
 </details>
 
@@ -91,7 +91,7 @@ Ce site web a été développé avec les technologies suivantes :
 
 
 <!-- GETTING STARTED -->
-#"Getting started"
+# "Getting started"
 
 
 ## Prérequis
@@ -154,7 +154,7 @@ L'ouverture d'une pull request est impérative pour espérer voir votre fonction
 - Une branche par feature est demandée.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
 
 <!-- CONTACT -->
