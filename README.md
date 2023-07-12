@@ -1,11 +1,9 @@
-![image](https://github.com/Saousa/projet-git/assets/123105382/3f6269d9-a863-490f-9dcc-fceeb2f981a3)### Restaurant Northstreet
-
 <a name="readme-top"></a>
 <!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
+<div align="center">[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![Issues][issues-shield]][issues-url]</div>
 
 
 
@@ -37,17 +35,22 @@
     <li>
       <a href="#about-the-project">A propos du projet</a>
       <ul>
-        <li><a href="#built-with">Crée avec...h</a></li>
+        <li><a href="#built-with">Créé avec...h</a></li>
       </ul>
     </li>
     <li>
       <a href="#getting-started">"Getting started"</a>
       <ul>
-        <li><a href="#prerequisites">Cloner le projet</a></li>
+        <li><a href="#prerequisites">Prérequis</a></li>
+        <li><a href="#clone">Cloner le projet</a></li>
         <li><a href="#installation">Prérequis</a></li>
       </ul>
     </li>
     <li><a href="#usage">Contributuer au projet</a></li>
+    <ul>
+        <li><a href="#prerequisites"> Code de conduite : important. ⚠️</a></li>
+        <li><a href="#clone">Contribution au projet</a></li>
+      </ul>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -68,13 +71,14 @@ Les features demandées et réalisées ont été les suivantes :
 - Service : Une mise en valeur des services personnalisés offerts par le restaurant : anniversaires, pots de départ, privatisation...
 - Contact : Une section dédiée aux coordonnées du restaurant, où les visiteurs peuvent trouver facilement l'adresse, le numéro de téléphone et les horaires d'ouverture. Un formulaire de contact est également disponible pour les demandes spéciales ou les réservations.
 
+Le projet est donc
 
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
 
 
-### Codé avec...
+### Créé avec...
 
 Ce site web a été développé avec les technologies suivantes :
 
@@ -90,6 +94,11 @@ Ce site web a été développé avec les technologies suivantes :
 <!-- GETTING STARTED -->
 ## "Getting started"
 
+## Prérequis
+
+... A remplir
+
+
 # Cloner le projet
 
 Pour obtenir une copie locale du code source et des ressources du Northstreet Restaurant, suivez ces étapes :
@@ -100,29 +109,51 @@ Pour obtenir une copie locale du code source et des ressources du Northstreet Re
 
 #
 
-### Prérequis
-
-... A remplir
-
-
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
 
 <!-- CONTRIBUTING -->
-## Contributuer au projet
+## Conditions de participation à la contribution
+
+Afin de contribuer au projet, vous devez **respecter** les critères suivants : 
+
+- Lire entièrement le code de conduite ci-dessous et l'avoir accepté.
+- Maîtriser au minimum les technologies suivantes : HTML, CSS, Javascript. Développeur par passion ou par métier, vous pouvez participer autant étudiant que confirmé.
+
+# Code de conduite : important. ⚠️
+
+1. Nous ne tolérons aucun harcèlement des participants sous quelque forme que ce soit. Cela concerne le harcèlement concernant le sexe, l'orientation sexuelle, le handicap, la maladie mentale, l'apparence physique, le corps, l'âge, la race, l'origine ethnique, la nationalité, la langue, la religion...
+2. Aucune menace envers les collaborateurs n'est tolérée. Il est impératif de respecter chaque développeur/contributeur présent sur ce projet et dans la communauté. Toute insulte ou comportement irrespectueux entraînera une exclusion vis-à-vis de la participation au projet. Il est important de préciser que les critiques construites sont les bienvenues tout de même et sont appréciées.
+3. Merci de choisir un pseudonyme correct, respectueux et non offensant. Celui-ci doit être en adéquation avec le code de conduite. Tout participant possédant un pseudonyme non conforme se verra automatiquement exclu de toute participation au projet.
+4. Si vous souhaitez changer de pseudonyme, merci d'informer les admin afin d'être à jour sur votre identité.
+5. Merci d'éviter les émojis dans les pseudonymes.
+6. Avant de poser quelconque question, n'hésitez pas à vérifier si vous pouvez trouver une réponse rapidement sur Google afin d'éviter une sollicitation inutile.
+7. Merci de respecter les choix technologiques de chacun.
+8. Si un problème persiste ou si vous rencontrez des difficultés avec l'un des collaborateurs, n'hésitez pas à contacter les administrateurs. Il peut s'agit de harcèlement à votre encontre, mais également si vous êtes témoin d'une situation de harcèlement.
+
+Dans le but de protéger les victimes d'abus, nous nous engageons à respecter les demandes de confidentialité. Si nous recevons des plaintes de harcèlement concernant une personne, il pourra être possible de la nommer publiquement ou d'informer discrètement les collaborateurs à son sujet, si cela contribue à assurer la sécurité des participants. Cependant, nous n'identifierons jamais les victimes de harcèlement sans leur consentement explicite.
+
+# Contributuer au projet
 
 Si vous avez une suggestion qui améliorerait le projet, veuillez fork le dépôt et créer une pull request. Vous pouvez aussi simplement ouvrir une "issue" avec le tag "enhancement".
-Toutes les contributions que vous faites sont ** grandement appréciées **.
+Toutes les contributions que vous faites sont **grandement appréciées**.
 Voici les étapes à réaliser pour contribuer à l'amélioration de notre projet :
 
 1. Forkez le projet
-2. Créez votre branche de feature (`git checkout -b feature/AmazingFeature`)
-3. Commitez vos modifications (`git commit -m 'Add some AmazingFeature'`)
-4. Pushez sur la branche ('git push origin feature/AmazingFeature')
+2. Créez votre branche de feature (`git checkout -b feature/VOTRE_FEATURE`)
+3. Commitez vos modifications (`git commit -m 'Détails sur VOTRE_FEATURE'`)
+4. Pushez sur la branche ('git push origin feature/VOTRE_FEATURE')
 5. Ouvrez une pull request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+L'ouverture d'une pull request est impérative pour espérer voir votre fonctionnalité ajoutée.
 
+**IMPORTANT : détails à retenir :**
+
+- Le français et l'anglais sont utilisés dans ce projet.
+- Une branche par feature est demandée.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
@@ -147,24 +178,4 @@ Lien du projet: [https://github.com/Saousa/projet-git](https://github.com/Saousa
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
