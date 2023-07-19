@@ -128,7 +128,7 @@ Afin de contribuer au projet, vous devez **respecter** les critères suivants :
 
 Dans le but de protéger les victimes d'abus, nous nous engageons à respecter les demandes de confidentialité. Si nous recevons des plaintes de harcèlement concernant une personne, il pourra être possible de la nommer publiquement ou d'informer discrètement les collaborateurs à son sujet, si cela contribue à assurer la sécurité des participants. Cependant, nous n'identifierons jamais les victimes de harcèlement sans leur consentement explicite.
 
-## Contributuer au projet
+## Contribuer au projet
 
 Si vous avez une suggestion qui améliorerait le projet, veuillez fork le dépôt et créer une pull request. Vous pouvez aussi simplement ouvrir une "issue" avec le tag "enhancement".
 Toutes les contributions que vous faites sont **grandement appréciées**.
