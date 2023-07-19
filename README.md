@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## A propos du projet
 
-![Capture d'écran 2023-07-09 223433](https://github.com/Saousa/projet-git/assets/123105382/06a48dfd-13a0-44c2-9ccc-150659ac28a5)
+![Capture d'écran 2023-07-09 223433](https://flavien-fouqueray.fr/img/site_web.png)
 
 Ce projet a avant tout pour but de réaliser la commande du client, propriétaire du "Northstreet Restaurant".
 Les features demandées et réalisées ont été les suivantes :
