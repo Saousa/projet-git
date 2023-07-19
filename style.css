@@ -33,7 +33,7 @@ html, body {
   
   hr {
     border-color: #ffc266;
-    border-width: 5px;
+    border-width:8px;
     max-width: 100%;
   }
   
@@ -830,3 +830,4 @@ html, body {
     -o-transition: all 1s ease;
     transition: all 1s ease;
   }
+
