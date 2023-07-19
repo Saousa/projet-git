@@ -1,8 +1,5 @@
 <a name="readme-top"></a>
 <!-- PROJECT SHIELDS -->
-[![Issues][issues-shield]][issues-url]
-<a name="readme-top"></a>
-<!-- PROJECT SHIELDS -->
 
 [![Issues][issues-shield]][issues-url]
 
