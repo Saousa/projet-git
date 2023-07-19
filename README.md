@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a name="readme-top"></a>
 <!-- PROJECT SHIELDS -->
 <div align="center">[![Contributors][contributors-shield]][contributors-url]
