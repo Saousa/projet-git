@@ -1,0 +1,45 @@
+name: Signalement de bug GitHub
+description: Signaler un bug sur le dépôt GitHub pour nous aider à l'améliorer
+title: "[Bug GitHub]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci de nous aider à améliorer notre dépôt GitHub en fournissant les informations détaillées ci-dessous.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description du bug
+      description: Fournissez une description claire et concise du bug.
+    validations:
+      required: true
+  - type: textarea
+    id: file
+    attributes:
+      label: Fichier ou section concernée
+      description: Indiquez le fichier ou la section du dépôt où vous avez rencontré le bug (par exemple, README, section d'installation).
+    validations:
+      required: true
+  - type: textarea
+    id: steps_to_reproduce
+    attributes:
+      label: Étapes pour reproduire le bug
+      description: Fournissez une liste des étapes pour reproduire le bug.
+    validations:
+      required: true
+  - type: textarea
+    id: expected_behavior
+    attributes:
+      label: Comportement attendu
+      description: Décrivez ce que vous attendiez à la place du bug.
+    validations:
+      required: true
+  - type: checkboxes
+    id: agreement
+    attributes:
+      label: Code de conduite
+      description: En soumettant ce rapport, vous vous engagez à respecter notre code de conduite.
+      options:
+        - label: J'accepte de suivre le code de conduite de ce projet.
+          required: true

@@ -1,4 +1,6 @@
 /* Navbar scroll */
+console.log('test');
+
 $(function(){
 
     var nav = $('.navbar'),
@@ -82,3 +84,6 @@ $(function(){
     });
   
   })
+
+
+
