@@ -132,7 +132,7 @@ PEREZ Lorette       - perezlorette1@gmail.com
 
 Lien du projet: [https://github.com/Saousa/projet-git](https://github.com/Saousa/projet-git)
 
-<p align="right">(<a href="#readme-top">retour en hautp</a>)</p>
+<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
