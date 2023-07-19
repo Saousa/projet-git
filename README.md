@@ -3,9 +3,6 @@
 
 [![Issues][issues-shield]][issues-url]
 
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -70,12 +67,8 @@ Les features demandées et réalisées ont été les suivantes :
 - Service : Une mise en valeur des services personnalisés offerts par le restaurant : anniversaires, pots de départ, privatisation...
 - Contact : Une section dédiée aux coordonnées du restaurant, où les visiteurs peuvent trouver facilement l'adresse, le numéro de téléphone et les horaires d'ouverture. Un formulaire de contact est également disponible pour les demandes spéciales ou les réservations.
 
-Le projet est donc
-
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
-
-
 
 ### Créé avec...
 
@@ -91,6 +84,7 @@ Ce site web a été développé avec les technologies suivantes :
 
 
 <!-- GETTING STARTED -->
+
 # "Getting started"
 
 
@@ -134,7 +128,7 @@ Afin de contribuer au projet, vous devez **respecter** les critères suivants :
 
 Dans le but de protéger les victimes d'abus, nous nous engageons à respecter les demandes de confidentialité. Si nous recevons des plaintes de harcèlement concernant une personne, il pourra être possible de la nommer publiquement ou d'informer discrètement les collaborateurs à son sujet, si cela contribue à assurer la sécurité des participants. Cependant, nous n'identifierons jamais les victimes de harcèlement sans leur consentement explicite.
 
-## Contributuer au projet
+## Contribuer au projet
 
 Si vous avez une suggestion qui améliorerait le projet, veuillez fork le dépôt et créer une pull request. Vous pouvez aussi simplement ouvrir une "issue" avec le tag "enhancement".
 Toutes les contributions que vous faites sont **grandement appréciées**.
@@ -166,12 +160,15 @@ PEREZ Lorette       - perezlorette1@gmail.com
 
 Lien du projet: [https://github.com/Saousa/projet-git](https://github.com/Saousa/projet-git)
 
-<p align="right">(<a href="#readme-top">retour en hautp</a>)</p>
+
+<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+
 [contributors-url]: https://github.com/Saousa/projet-git/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Saousa/projet-git.svg?style=for-the-badge
 [forks-url]: https://github.com/Saousa/projet-git/forks
@@ -180,3 +177,4 @@ Lien du projet: [https://github.com/Saousa/projet-git](https://github.com/Saousa
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/Saousa/projet-git/issues
 [product-screenshot]: images/screenshot.png
+
