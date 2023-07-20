@@ -44,7 +44,6 @@
     </li>
     <li>Contributuer au projet</li>
     <ul>
-        <li>Code de conduite : important. ⚠️</li>
         <li>Contribution au projet</li>
       </ul>
     <li>Contact</li>
@@ -114,19 +113,6 @@ Afin de contribuer au projet, vous devez **respecter** les critères suivants :
 
 - Lire entièrement le code de conduite ci-dessous et l'avoir accepté.
 - Maîtriser au minimum les technologies suivantes : HTML, CSS, Javascript. Développeur par passion ou par métier, vous pouvez participer autant étudiant que confirmé.
-
-## Code de conduite : important. ⚠️
-
-1. Nous ne tolérons aucun harcèlement des participants sous quelque forme que ce soit. Cela concerne le harcèlement concernant le sexe, l'orientation sexuelle, le handicap, la maladie mentale, l'apparence physique, le corps, l'âge, la race, l'origine ethnique, la nationalité, la langue, la religion...
-2. Aucune menace envers les collaborateurs n'est tolérée. Il est impératif de respecter chaque développeur/contributeur présent sur ce projet et dans la communauté. Toute insulte ou comportement irrespectueux entraînera une exclusion vis-à-vis de la participation au projet. Il est important de préciser que les critiques construites sont les bienvenues tout de même et sont appréciées.
-3. Merci de choisir un pseudonyme correct, respectueux et non offensant. Celui-ci doit être en adéquation avec le code de conduite. Tout participant possédant un pseudonyme non conforme se verra automatiquement exclu de toute participation au projet.
-4. Si vous souhaitez changer de pseudonyme, merci d'informer les admin afin d'être à jour sur votre identité.
-5. Merci d'éviter les émojis dans les pseudonymes.
-6. Avant de poser quelconque question, n'hésitez pas à vérifier si vous pouvez trouver une réponse rapidement sur Google afin d'éviter une sollicitation inutile.
-7. Merci de respecter les choix technologiques de chacun.
-8. Si un problème persiste ou si vous rencontrez des difficultés avec l'un des collaborateurs, n'hésitez pas à contacter les administrateurs. Il peut s'agit de harcèlement à votre encontre, mais également si vous êtes témoin d'une situation de harcèlement.
-
-Dans le but de protéger les victimes d'abus, nous nous engageons à respecter les demandes de confidentialité. Si nous recevons des plaintes de harcèlement concernant une personne, il pourra être possible de la nommer publiquement ou d'informer discrètement les collaborateurs à son sujet, si cela contribue à assurer la sécurité des participants. Cependant, nous n'identifierons jamais les victimes de harcèlement sans leur consentement explicite.
 
 ## Contribuer au projet
 
