@@ -156,7 +156,7 @@ L'ouverture d'une pull request est impérative pour espérer voir votre fonction
 
 ALLAY Salma         -
 FOUQUERAY Flavien   - 
-PEREZ Lorette       - perezlorette1@gmail.com
+P Lorette           - 
 
 Lien du projet: [https://github.com/Saousa/projet-git](https://github.com/Saousa/projet-git)
 
